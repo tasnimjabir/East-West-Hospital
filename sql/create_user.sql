@@ -1,0 +1,7 @@
+alter session set "_oracle_script"=true;
+
+create user ewh identified by admin;
+
+GRANT RESOURCE, CONNECT, CREATE SESSION, CREATE TABLE,CREATE VIEW, CREATE ANY TRIGGER, CREATE ANY PROCEDURE, CREATE SEQUENCE, CREATE SYNONYM, UNLIMITED TABLESPACE TO ewh;
+
+connect ewh/admin;
