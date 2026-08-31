@@ -64,7 +64,7 @@ This is a learning sandbox, not a production app.
 
 Penetration Testing tutorial in Bangla:
 
-[![YouTube Video](img\thumbnail.png)](https://youtu.be/YfaXPGpHM_w?si=g_uCpr-IyhDkeV-a)
+[![YouTube Video](img/thumbnail.png)](https://youtu.be/YfaXPGpHM_w?si=g_uCpr-IyhDkeV-a)
 
 ## Setup:
 
