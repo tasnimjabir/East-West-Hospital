@@ -68,16 +68,13 @@ This is a learning sandbox, not a production app.
 
 Penetration Testing tutorial in Bangla:
 
-<div style="position: relative; display: inline-block; width: 400px;">
-  <!-- Base Thumbnail -->
+<p align="center">
   <a href="https://youtu.be/YfaXPGpHM_w?si=g_uCpr-IyhDkeV-a">
-  <img src="img/thumbnail.png" style="width: 100%; border-radius: 8px;" />
-  
-  <!-- Overlay YouTube Logo/Play Button -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" 
-       style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
-       width: 60px;" /></a> 
-</div>
+    <img src="img/thumbnail.png" width="400" alt="Penetration Testing Tutorial" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/Watch_on-YouTube-red?style=for-the-badge&logo=youtube" alt="Play Video" />
+  </a>
+</p>
 
 ## Setup:
 
